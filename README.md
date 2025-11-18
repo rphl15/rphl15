@@ -10,7 +10,7 @@ Currently exploring machine learning and advanced predictive analytics technique
 ⬛ MySQL  
 ⬛ Python  
 ⬛ Power BI  
-⬛ AutoCAD  
+⬛ R 
 ⬛ Microsoft Office Suite  
 
 
